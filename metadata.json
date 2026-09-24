@@ -1,0 +1,6 @@
+{
+  "name": "EA Vortex",
+  "description": "AI-powered chart analysis and MT4/MT5 license key manager for EA Vortex trading bots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
